@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Repositorio de prueba apara un curso de git.
+Repositorio de prueba para un curso de git.
